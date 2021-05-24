@@ -26,4 +26,3 @@ finally:
 
 # не забываем оставить пустую строку в конце файла
 
-# Congrats, you've passed the task! Copy this code as the answer for Stepik quiz: 22.305209531656875
